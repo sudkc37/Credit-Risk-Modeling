@@ -13,9 +13,13 @@ Machine learning models such as Logistic Regression, Regularized Logistic Regres
 
 
 
-  ## i-th feature explainability:
-  <img width="915" alt="Screenshot 2024-11-05 at 10 44 36 AM" src="https://github.com/user-attachments/assets/bcc8d681-4c3e-4812-a107-089f17b99ab8">
+  ## i-th Feature Explainability:
+<img width="1358" alt="Screenshot 2024-11-05 at 10 48 08 AM" src="https://github.com/user-attachments/assets/f4f514b3-4c78-46d8-a799-0d4b23bc50ec">
 
+  ## i+n Feature Explainability:
+<img width="1358" alt="Screenshot 2024-11-05 at 10 48 25 AM" src="https://github.com/user-attachments/assets/1d21fbd4-1f2a-468b-b525-803cb42f84d5">
+
+  
 Languages: SQL, Python
 
 Libraries: Sklearn, Feature-Engine, Shap, Opendatasets, Imbalanced-learn, PandaSQL, Numpy, Plotly, Matplotlib, Seaborn Collections
