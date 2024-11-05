@@ -19,6 +19,10 @@ Machine learning models such as Logistic Regression, Regularized Logistic Regres
   ## i+n Feature Explainability:
 <img width="1358" alt="Screenshot 2024-11-05 at 10 48 25 AM" src="https://github.com/user-attachments/assets/1d21fbd4-1f2a-468b-b525-803cb42f84d5">
 
+  ## Global Feature Important:
+  <img width="702" alt="Screenshot 2024-11-05 at 10 53 24 AM" src="https://github.com/user-attachments/assets/d9138902-1505-4244-afbb-ba7fd3cfe4ae">
+<img width="688" alt="Screenshot 2024-11-05 at 10 53 44 AM" src="https://github.com/user-attachments/assets/b0e76ba9-bdd1-4ffb-b6ea-9d24da08f128">
+
   
 Languages: SQL, Python
 
