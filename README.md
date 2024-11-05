@@ -8,6 +8,8 @@ Machine learning models such as Logistic Regression, Regularized Logistic Regres
 
 
 
+## Model Explainability Using Explainable Artificial Intelligence(XAI-SHAP) for Gradient Boosting Classifier:
+<img width="910" alt="Screenshot 2024-11-05 at 10 47 49 AM" src="https://github.com/user-attachments/assets/d272c875-0df2-4bd8-8189-db0df342616e">
 
 
 Languages: SQL, Python
